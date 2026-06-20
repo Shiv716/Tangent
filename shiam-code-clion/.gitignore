@@ -1,0 +1,23 @@
+# Build output
+/build/
+/cmake-build-*/      # CLion's default build dirs
+*.o
+*.a
+
+# Downloaded model artefacts (fetched once by scripts/setup.sh).
+# These are large and license-bound — never commit them.
+/models/*.bin
+/models/*.onnx
+/models/*.onnx.json
+
+# Generated soundscapes (regenerated procedurally on first run)
+/assets/soundscapes/*.wav
+
+# Local memory store (per-device user data — must never leave the device)
+/memory_store.json
+
+# IDE
+.idea/
+*.user
+
+# Vendored third_party IS committed on purpose (offline builds) — do NOT ignore it.
