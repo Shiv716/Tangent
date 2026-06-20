@@ -5,6 +5,8 @@
 Built for [Localhost: On-Device Agent Hackathon](https://luma.com/8og1gx56) · 20 June 2026 · London
 
 > 🏛 Hackathon Track Partners: **Cognee** · **ElevenLabs**
+ 
+> 🔗 **MVP:** [stillness-tap-config.lovable.app](https://stillness-tap-config.lovable.app/library)
 
 ---
 
