@@ -9,6 +9,8 @@ Built for [Localhost: On-Device Agent Hackathon](https://luma.com/8og1gx56) · 2
 > 🔗 **MVP:** [stillness-tap-config.lovable.app](https://stillness-tap-config.lovable.app/library)
 
 > 🎥 **Demo Video:** [Watch the walkthrough](https://youtu.be/WapV_jvI01Y)
+
+> 💻 **POC Source:** [POC Repo](https://github.com/Shiv716/Tangent/tree/main/shiam-code-clion) 
 ---
 
 ## Problem Statement
