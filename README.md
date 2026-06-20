@@ -632,4 +632,4 @@ Yvanoff-Frenchin, C. et al. (2020). *Edge Computing Robot Interface for Automati
 
 ## License
 
-MIT
+[MIT](./LICENSE)
