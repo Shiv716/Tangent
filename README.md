@@ -619,6 +619,13 @@ The companion web app has no telemetry, no analytics, no user accounts, and no t
 
 **ElevenLabs** — Used at build time to pre-generate a library of high-quality meditation voice phrases stored as WAV files on the device. Not called at runtime. No ElevenLabs API interaction occurs during device operation.
 
+**Results:**
+- [Overmind](https://www.overmindlab.ai) Track Winner: [LinkedIn](https://www.linkedin.com/posts/shivang-chaudhary-2235831b5_ondeviceai-aiengineering-hackathon-ugcPost-7474488430329167872-AMMU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIYqXsB5HGqzeF8kn0xGOcU1dMfK0sHVHA)
+- [Cosine](https://cosine.sh) Track Security Bounty Price:
+<img width="1192" height="600" alt="Screenshot 2026-06-28 at 10 38 17 AM" src="https://github.com/user-attachments/assets/d8c528d1-f297-4f47-8f73-2fc691924a65" />
+<img width="1182" height="392" alt="Screenshot 2026-06-28 at 10 38 48 AM" src="https://github.com/user-attachments/assets/eebe4a7e-d33c-430b-a98e-d1296ff47a52" />
+
+
 ---
 
 ## References
